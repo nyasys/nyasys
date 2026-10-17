@@ -11,24 +11,28 @@ Outside of Business & Development, I'm heavily involved in competitive gaming, e
 
 <h2 align="left">Languages & Tools:</h2>
 
-### Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,java,c,cs,cpp&perline=6" alt="Languages" />
-</p>
+  <img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=java" height="48" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=c" height="48" alt="C" />
+  <img src="https://skillicons.dev/icons?i=cs" height="48" alt="C#" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="48" alt="C++" />
+  
+  <img src="https://skillicons.dev/icons?i=vscode" height="48" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=unity" height="48" alt="Unity" />
+  <img src="https://skillicons.dev/icons?i=discord" height="48" alt="Discord" />
+  <img src="https://skillicons.dev/icons?i=telegram" height="48" alt="Telegram" />
 
-### Tools
-<p align="left">
-  <!-- Official icons where available -->
-  <img src="https://skillicons.dev/icons?i=vscode,unity,discord,telegram&perline=4" alt="VS Code, Unity, Discord, Telegram" />
-  <!-- Emoji badges for tools without standard logos -->
-  <img src="https://img.shields.io/badge/IDA_Pro-🔍-blue?style=flat-square" alt="IDA Pro" />
-  <img src="https://img.shields.io/badge/x64dbg-🐞-red?style=flat-square" alt="x64dbg" />
-  <img src="https://img.shields.io/badge/Binary_Ninja-🥷-black?style=flat-square" alt="Binary Ninja" />
-  <img src="https://img.shields.io/badge/REA-⚙️-gray?style=flat-square" alt="REA" />
-  <img src="https://img.shields.io/badge/TigerVNC_Viewer-🖥️-green?style=flat-square" alt="TigerVNC Viewer" />
-  <img src="https://img.shields.io/badge/IDLE-🐍-yellow?style=flat-square" alt="IDLE" />
-  <img src="https://img.shields.io/badge/Cheat_Engine-🎮-purple?style=flat-square" alt="Cheat Engine" />
-  <img src="https://img.shields.io/badge/OpenCode-💻-blueviolet?style=flat-square" alt="OpenCode" />
+  <!-- Real logos & functional icons for reverse engineering tools -->
+  <img src="https://545602138-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FucByjS46IhJacH1pbIKC%2Fuploads%2Fgit-blob-3d917705a9110478df98482036429c5101968c37%2Ficon_pro.png?alt=media" height="48" alt="IDA Pro" title="IDA Pro" />
+  <img src="https://api.iconify.design/mdi:bug.svg?color=%23E53935" height="48" alt="x64dbg" title="x64dbg" />
+  <img src="https://binary.ninja/bimi_logo.svg" height="48" alt="Binary Ninja" title="Binary Ninja" />
+  <img src="https://api.iconify.design/mdi:cog-sync.svg?color=%23607D8B" height="48" alt="REA" title="REA" />
+  <img src="https://proicons.com/icon/107643.svg" height="48" alt="TigerVNC Viewer" title="TigerVNC Viewer" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="48" alt="IDLE" title="IDLE" />
+  <img src="https://api.iconify.design/mdi:gamepad-variant.svg?color=%237E57C2" height="48" alt="Cheat Engine" title="Cheat Engine" />
+  <img src="https://cdn.simpleicons.org/opencode/000000" height="48" alt="OpenCode" title="OpenCode" />
 </p>
 
 <i><h3 align="right">Connect with me</h3></i>
