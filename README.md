@@ -1,8 +1,6 @@
 from pathlib import Path
 
-readme = r'''<h2 align="left">
-  Привет Devs! 👋
-</h2>
+readme = r'''<h2 align="left">Привет Devs! 👋</h2>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=nyasys&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
@@ -10,7 +8,7 @@ readme = r'''<h2 align="left">
 
 ---
 
-<img align="right" width="260" src="https://octodex.github.com/images/murakamicat.png" alt="Octocat">
+<img align="right" width="250" src="https://octodex.github.com/images/murakamicat.png" alt="Octocat">
 
 I'm Alex, 15, based in Russia. I build products focused on giving people happiness.
 
@@ -22,10 +20,10 @@ Outside of business and development, I'm heavily involved in competitive gaming,
 
 ---
 
-## Languages & Tools
+<h2 align="left">Languages &amp; Tools</h2>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,java,c,cs,cpp&perline=6" alt="HTML, CSS, Java, C, C sharp, C plus plus">
+  <img src="https://skillicons.dev/icons?i=html,css,java,c,cs,cpp&perline=6" alt="HTML, CSS, Java, C, C#, C++">
 </p>
 
 **Tools I use**
@@ -39,18 +37,22 @@ Outside of business and development, I'm heavily involved in competitive gaming,
 
 ---
 
-## Connect with me
+<h2 align="left">Connect with me</h2>
 
 <p align="left">
-  <a href="https://x.com/nyasyss"><img src="https://img.shields.io/badge/X%2FTwitter-000000?style=flat-square&logo=x&logoColor=white" alt="X/Twitter"></a>
-  <a href="http://t.me/nyasys"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="https://nya.udwtf.workers.dev/"><img src="https://img.shields.io/badge/Portfolio-6C5CE7?style=flat-square&logo=firefoxbrowser&logoColor=white" alt="Portfolio"></a>
+  <a href="https://x.com/nyasyss"><img src="https://img.shields.io/badge/X%2FTwitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter"></a>
+  <a href="https://t.me/nyasys"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://nya.udwtf.workers.dev/"><img src="https://img.shields.io/badge/Portfolio-6C5CE7?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio"></a>
 </p>
 
 ---
 
-<a href="https://buymeacoffee.com/nya.sys"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me a Coffee"></a>
+<p align="left">
+  <a href="https://buymeacoffee.com/nya.sys">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="55">
+  </a>
+</p>
 '''
-out=Path("/mnt/data/README.md")
+out = Path("/mnt/data/README.md")
 out.write_text(readme, encoding="utf-8")
-print("Updated README.md")
+print("README.md rewritten cleanly. It contains only README HTML/Markdown, not Python code.")
