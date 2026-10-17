@@ -40,10 +40,10 @@ Outside of Business & Development, I'm heavily involved in competitive gaming, e
   <img src="https://www.logo.wine/a/logo/TigerVNC/TigerVNC-Logo.wine.svg" height="48" alt="TigerVNC" title="TigerVNC" />
   <img src="https://github.com/x64dbg/x64dbg/raw/development/src/bug_black.png" height="48" alt="x64dbg" title="x64dbg" />
 
-  <img src="https://opencode.ai/" height="48" alt="OpenCode" title="OpenCode" />
+  <img src="https://raw.githubusercontent.com/anomalyco/opencode/dev/packages/console/app/src/asset/logo-ornate-light.svg" height="48" alt="OpenCode" title="OpenCode" />
   <img src="https://cdn.simpleicons.org/python/3776AB" height="48" alt="Python IDLE" title="Python IDLE" />
   <img src="https://www.google.com/s2/favicons?domain=hex-rays.com&sz=128" height="48" alt="IDA Pro" title="IDA Pro" />
-  <img src="https://rea.tools/" height="48" alt="REA" title="REA" />
+  <a href="https://rea.tools/" title="REA">REA</a>
 </p>
 
 ---
