@@ -34,10 +34,12 @@ Outside of Business & Development, I'm heavily involved in competitive gaming, e
   <img src="https://skillicons.dev/icons?i=unity" height="48" alt="Unity" title="Unity" />
   <img src="https://skillicons.dev/icons?i=discord" height="48" alt="Discord" title="Discord" />
   <img src="https://cdn.simpleicons.org/telegram/2CA5E0" height="48" alt="Telegram" title="Telegram" />
-  <img src="https://cdn.simpleicons.org/binaryninja" height="48" alt="Binary Ninja" title="Binary Ninja" />
-  <img src="https://cdn.simpleicons.org/cheatengine" height="48" alt="Cheat Engine" title="Cheat Engine" />
-  <img src="https://cdn.simpleicons.org/tigervnc" height="48" alt="TigerVNC Viewer" title="TigerVNC Viewer" />
+
+  <img src="https://binary.ninja/bimi_logo.svg" height="48" alt="Binary Ninja" title="Binary Ninja" />
+  <img src="https://github.com/cheat-engine/cheat-engine/raw/master/Cheat%20Engine/images/celogo.png" height="48" alt="Cheat Engine" title="Cheat Engine" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/TigerVNC_logo.svg" height="48" alt="TigerVNC" title="TigerVNC" />
   <img src="https://github.com/x64dbg/x64dbg/raw/development/src/bug_black.png" height="48" alt="x64dbg" title="x64dbg" />
+
   <img src="https://cdn.simpleicons.org/opencode" height="48" alt="OpenCode" title="OpenCode" />
   <img src="https://cdn.simpleicons.org/python/3776AB" height="48" alt="Python IDLE" title="Python IDLE" />
   <img src="https://www.google.com/s2/favicons?domain=hex-rays.com&sz=128" height="48" alt="IDA Pro" title="IDA Pro" />
