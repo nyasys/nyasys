@@ -36,18 +36,12 @@ Outside of Business & Development, I'm heavily involved in competitive gaming, e
   <img src="https://cdn.simpleicons.org/telegram/2CA5E0" height="48" alt="Telegram" title="Telegram" />
   <img src="https://cdn.simpleicons.org/binaryninja" height="48" alt="Binary Ninja" title="Binary Ninja" />
   <img src="https://cdn.simpleicons.org/cheatengine" height="48" alt="Cheat Engine" title="Cheat Engine" />
+  <img src="https://cdn.simpleicons.org/tigervnc" height="48" alt="TigerVNC Viewer" title="TigerVNC Viewer" />
+  <img src="https://github.com/x64dbg/x64dbg/raw/development/src/bug_black.png" height="48" alt="x64dbg" title="x64dbg" />
   <img src="https://cdn.simpleicons.org/opencode" height="48" alt="OpenCode" title="OpenCode" />
-  <img src="https://cdn.simpleicons.org/tigervnc" height="48" alt="TigerVNC" title="TigerVNC" />
   <img src="https://cdn.simpleicons.org/python/3776AB" height="48" alt="Python IDLE" title="Python IDLE" />
-</p>
-
-<p align="left">
-  <a href="https://hex-rays.com/ida-pro" title="IDA Pro">
-    <img src="https://www.google.com/s2/favicons?domain=hex-rays.com&sz=128" height="48" alt="IDA Pro" />
-  </a>
-  <a href="https://x64dbg.com/" title="x64dbg">
-    <img src="https://www.google.com/s2/favicons?domain=x64dbg.com&sz=128" height="48" alt="x64dbg" />
-  </a>
+  <img src="https://www.google.com/s2/favicons?domain=hex-rays.com&sz=128" height="48" alt="IDA Pro" title="IDA Pro" />
+  <img src="https://api.iconify.design/mdi:magnify-scan.svg" height="48" alt="REA" title="REA" />
 </p>
 
 ---
