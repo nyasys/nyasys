@@ -31,7 +31,7 @@ Outside of Business & Development, I'm heavily involved in competitive gaming, e
   <a href="https://docs.python.org/3/library/idle.html" title="Python IDLE"><img src="https://cdn.simpleicons.org/python/3776AB" width="48" height="48" alt="Python IDLE" /></a>
 </p>
 
-<h3 align="left">Software & Tools:</h3>
+<h3 align="left">Software:</h3>
 
 
 <p align="left">
@@ -51,7 +51,7 @@ Outside of Business & Development, I'm heavily involved in competitive gaming, e
 ---
 
 
-<h3>Connect with me:</h3>
+<h3>Connect With Me:</h3>
 
 <p>
   <a href="https://x.com/nyasyss">
