@@ -9,7 +9,7 @@ Most of what I do revolves around building products that make people happy, crea
 
 Outside of Business & Development, I'm heavily involved in competitive gaming, especially CS2 & TF2 & Fortnite. I'm also passionate about software development, building tools that give players an unfair advantage, and helping others along the way.
 
-<h1 align="left">Languages & Tools:</h1>
+<h1 align="left">Languages & Software:</h1>
 
 <h3 align="left">Languages:</h3>
 
@@ -24,7 +24,7 @@ Outside of Business & Development, I'm heavily involved in competitive gaming, e
   <a href="https://docs.python.org/3/library/idle.html" title="Python IDLE"><img src="https://cdn.simpleicons.org/python/3776AB" width="48" height="48" alt="Python IDLE" /></a>
 </p>
 
-<h3 align="left">Tools:</h3>
+<h3 align="left">Software:</h3>
 
 <p align="left">
   <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="Visual Studio Code" /></a>&nbsp;&nbsp;
