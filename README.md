@@ -1,6 +1,6 @@
 <h2 align="left">
   Привет Devs!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Waving hand">
+  <img src="https://media.giphy.com/media/hvRJZfFzcasrR4ia7z/giphy.gif" width="28" alt="Waving hand">
 </h2>
 
 I'm Alex, 15, based in Russia. I build products focused on giving people happiness.
@@ -14,30 +14,30 @@ Outside of Business & Development, I'm heavily involved in competitive gaming, e
 <h3 align="left">Languages:</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" title="C" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" title="C#" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" title="C++" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" title="Python" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" title="HTML" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" title="CSS" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" title="Java" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="48" height="48" alt="Python IDLE" title="Python IDLE" />
+  <a href="https://en.cppreference.com/w/c/language.html" title="C"><img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" /></a>&nbsp;&nbsp;
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="C#"><img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" /></a>&nbsp;&nbsp;
+  <a href="https://isocpp.org/" title="C++"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /></a>&nbsp;&nbsp;
+  <a href="https://www.python.org/" title="Python"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /></a>&nbsp;&nbsp;
+  <a href="https://www.java.com/" title="Java"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /></a>&nbsp;&nbsp;
+  <a href="https://docs.python.org/3/library/idle.html" title="Python IDLE"><img src="https://cdn.simpleicons.org/python/3776AB" width="48" height="48" alt="Python IDLE" /></a>
 </p>
 
 <h3 align="left">Tools:</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="Visual Studio Code" title="Visual Studio Code" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=discord" width="48" height="48" alt="Discord" title="Discord" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/telegram/2CA5E0" width="48" height="48" alt="Telegram" title="Telegram" />&nbsp;&nbsp;
-  <img src="https://www.google.com/s2/favicons?domain=hex-rays.com&sz=128" width="48" height="48" alt="IDA Pro" title="IDA Pro" />&nbsp;&nbsp;
-  <img src="https://binary.ninja/bimi_logo.svg" width="48" height="48" alt="Binary Ninja" title="Binary Ninja" />&nbsp;&nbsp;
-  <img src="https://github.com/x64dbg/x64dbg/raw/development/src/bug_black.png" width="48" height="48" alt="x64dbg" title="x64dbg" />&nbsp;&nbsp;
-  <a href="https://rea.tools/" title="REA"><img src="https://www.google.com/s2/favicons?domain=rea.tools&sz=128" width="48" height="48" alt="REA" title="REA" /></a>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity" title="Unity" />&nbsp;&nbsp;
-  <img src="https://github.com/cheat-engine/cheat-engine/raw/master/Cheat%20Engine/images/celogo.png" width="48" height="48" alt="Cheat Engine" title="Cheat Engine" />&nbsp;&nbsp;
-  <img src="https://www.logo.wine/a/logo/TigerVNC/TigerVNC-Logo.wine.svg" width="48" height="48" alt="TigerVNC" title="TigerVNC" />&nbsp;&nbsp;
-  <a href="https://opencode.ai/" title="OpenCode"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/opencode/default.svg" width="48" height="48" alt="OpenCode" title="OpenCode" /></a>
+  <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="Visual Studio Code" /></a>&nbsp;&nbsp;
+  <a href="https://discord.com/" title="Discord"><img src="https://skillicons.dev/icons?i=discord" width="48" height="48" alt="Discord" /></a>&nbsp;&nbsp;
+  <a href="https://telegram.org/" title="Telegram"><img src="https://cdn.simpleicons.org/telegram/2CA5E0" width="48" height="48" alt="Telegram" /></a>&nbsp;&nbsp;
+  <a href="https://hex-rays.com/ida-pro" title="IDA Pro"><img src="https://www.google.com/s2/favicons?domain=hex-rays.com&sz=128" width="48" height="48" alt="IDA Pro" /></a>&nbsp;&nbsp;
+  <a href="https://binary.ninja/" title="Binary Ninja"><img src="https://binary.ninja/bimi_logo.svg" width="48" height="48" alt="Binary Ninja" /></a>&nbsp;&nbsp;
+  <a href="https://x64dbg.com/" title="x64dbg"><img src="https://github.com/x64dbg/x64dbg/raw/development/src/bug_black.png" width="48" height="48" alt="x64dbg" /></a>&nbsp;&nbsp;
+  <a href="https://rea.tools/" title="REA"><img src="https://www.google.com/s2/favicons?domain=rea.tools&sz=128" width="48" height="48" alt="REA" /></a>&nbsp;&nbsp;
+  <a href="https://unity.com/" title="Unity"><img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity" /></a>&nbsp;&nbsp;
+  <a href="https://www.cheatengine.org/" title="Cheat Engine"><img src="https://github.com/cheat-engine/cheat-engine/raw/master/Cheat%20Engine/images/celogo.png" width="48" height="48" alt="Cheat Engine" /></a>&nbsp;&nbsp;
+  <a href="https://tigervnc.org/" title="TigerVNC"><img src="https://www.logo.wine/a/logo/TigerVNC/TigerVNC-Logo.wine.svg" width="48" height="48" alt="TigerVNC" /></a>&nbsp;&nbsp;
+  <a href="https://opencode.ai/" title="OpenCode"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/opencode/default.svg" width="48" height="48" alt="OpenCode" /></a>
 </p>
 
 ---
