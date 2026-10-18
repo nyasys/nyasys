@@ -1,29 +1,24 @@
 <!-- 
-  TODO: fix alignment issues on mobile later... looks kinda weird on small screens 
-  Note to self: add visitor badge counter when I figure out which one isn't bloated lol
+  TODO: fix alignment issues on mobile later😭 looks kinda weird on small screens, oh well.
 -->
 
 <h2 align="left">
-  Yo guys, Privet! <!-- mixing languages a bit cuz why not -->
+  Yo guys, Privet! 
   <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" width="30px" alt="Waving hand">
 </h2>
 
-<!-- Keep it real, remove the overly corporate sounding AI fluff -->
-Hey, I'm Alex. 15 y/o dev from Russia. I just like building cool stuff that people actually use (or stuff that breaks games, oops).
+I'm Alex, 15, based in Russia. I build products focused on giving people happiness.
 
-Basically, I spend way too much time writing code, breaking things, and trying to figure out how stuff works under the hood. 
+Most of what I do revolves around building products that make people happy, creating fun experiences and long lasting memories.
 
-When I'm not staring at VS Code, I'm probably grinding CS2, TF2, or Fortnite. Big fan of reverse engineering and making tools that... well, let's just call them "helpful utilities" for gamers xD. 
+Outside of Business & Development, I'm heavily involved in competitive gaming, especially CS2 & TF2 & Fortnite. I'm also passionate about software development, building tools that give players an unfair advantage, and helping others along the way.
 
-<br>
+<h1 align="left">Languages & Software:</h1>
 
-<h1 align="left">My Stack / What I use:</h1>
-
-<!-- Grouping these manually with some messy spacing like a real readme -->
-<h3 align="left">Languages I actually touch:</h3>
+<h3 align="left">Languages:</h3>
 
 <p align="left">
-  <!-- c/c++ first cuz that's where the fun is -->
+  <!-- c/c++ first cuz that's where i most work in -->
   <a href="https://isocpp.org/" title="C++"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /></a>&nbsp;
   <a href="https://en.cppreference.com/w/c/language.html" title="C"><img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" /></a>&nbsp;
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="C#"><img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" /></a>&nbsp;
@@ -32,13 +27,13 @@ When I'm not staring at VS Code, I'm probably grinding CS2, TF2, or Fortnite. Bi
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /></a>&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /></a>&nbsp;
   <a href="https://www.java.com/" title="Java"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /></a>&nbsp;
-  <!-- python idle is a meme but keeping it -->
+  <!-- python idle is so normal but whatever keep it just in case -->
   <a href="https://docs.python.org/3/library/idle.html" title="Python IDLE"><img src="https://cdn.simpleicons.org/python/3776AB" width="48" height="48" alt="Python IDLE" /></a>
 </p>
 
 <h3 align="left">Software & Tools:</h3>
 
-<!-- Mixed up the order a little bit from the hyper-organized list -->
+
 <p align="left">
   <a href="https://code.visualstudio.com/" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /></a>&nbsp;
   <a href="https://hex-rays.com/ida-pro" title="IDA Pro"><img src="https://www.google.com/s2/favicons?domain=hex-rays.com&sz=128" width="48" height="48" alt="IDA Pro" /></a>&nbsp;
@@ -55,8 +50,8 @@ When I'm not staring at VS Code, I'm probably grinding CS2, TF2, or Fortnite. Bi
 
 ---
 
-<!-- Centered or left? Let's just leave it messy like standard profile readmes -->
-<h3>Hit me up:</h3>
+
+<h3>Connect with me:</h3>
 
 <p>
   <a href="https://x.com/nyasyss">
