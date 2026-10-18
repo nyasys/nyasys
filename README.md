@@ -3,7 +3,7 @@
 -->
 
 <h2 align="left">
-  Yo guys, Privet! 
+  Привет,Devs! 
   <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" width="30px" alt="Waving hand">
 </h2>
 
