@@ -1,6 +1,6 @@
 <h2 align="left">
   Привет Devs!
-  <img src="https://media.giphy.com/media/hvRJZfcasrR4ia7z/giphy.gif" width="28" alt="Waving hand">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Waving hand">
 </h2>
 
 I'm Alex, 15, based in Russia. I build products focused on giving people happiness.
