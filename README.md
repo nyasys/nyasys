@@ -37,7 +37,7 @@ Outside of Business & Development, I'm heavily involved in competitive gaming, e
   <img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity" title="Unity" />&nbsp;&nbsp;
   <img src="https://github.com/cheat-engine/cheat-engine/raw/master/Cheat%20Engine/images/celogo.png" width="48" height="48" alt="Cheat Engine" title="Cheat Engine" />&nbsp;&nbsp;
   <img src="https://www.logo.wine/a/logo/TigerVNC/TigerVNC-Logo.wine.svg" width="48" height="48" alt="TigerVNC" title="TigerVNC" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/anomalyco/opencode/dev/packages/console/app/src/asset/logo-ornate-light.svg" width="48" height="48" alt="OpenCode" title="OpenCode" />
+  <a href="https://opencode.ai/" title="OpenCode"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/opencode/default.svg" width="48" height="48" alt="OpenCode" title="OpenCode" /></a>
 </p>
 
 ---
