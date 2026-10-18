@@ -1,4 +1,3 @@
-```html
 <h2 align="left">
   Привет Devs!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Waving hand">
@@ -64,4 +63,3 @@ Outside of Business & Development, I'm heavily involved in competitive gaming, e
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" />
   </a>
 </div>
-```
