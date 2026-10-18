@@ -43,7 +43,9 @@ Outside of Business & Development, I'm heavily involved in competitive gaming, e
   <img src="https://raw.githubusercontent.com/anomalyco/opencode/dev/packages/console/app/src/asset/logo-ornate-light.svg" height="48" alt="OpenCode" title="OpenCode" />
   <img src="https://cdn.simpleicons.org/python/3776AB" height="48" alt="Python IDLE" title="Python IDLE" />
   <img src="https://www.google.com/s2/favicons?domain=hex-rays.com&sz=128" height="48" alt="IDA Pro" title="IDA Pro" />
-  <a href="https://rea.tools/" title="REA">REA</a>
+  <a href="https://rea.tools/" title="REA">
+    <img src="./assets/rea.svg" height="48" alt="REA" title="REA" />
+  </a>
 </p>
 
 ---
