@@ -33,9 +33,7 @@ Outside of Business & Development, I'm heavily involved in competitive gaming, e
   <img src="https://www.google.com/s2/favicons?domain=hex-rays.com&sz=128" width="48" height="48" alt="IDA Pro" title="IDA Pro" />&nbsp;&nbsp;
   <img src="https://binary.ninja/bimi_logo.svg" width="48" height="48" alt="Binary Ninja" title="Binary Ninja" />&nbsp;&nbsp;
   <img src="https://github.com/x64dbg/x64dbg/raw/development/src/bug_black.png" width="48" height="48" alt="x64dbg" title="x64dbg" />&nbsp;&nbsp;
-  <a href="https://rea.tools/" title="REA">
-    <img src="./assets/rea.svg" width="48" height="48" alt="REA" title="REA" />
-  </a>&nbsp;&nbsp;
+  <a href="https://rea.tools/" title="REA"><img src="./assets/rea.svg" width="48" height="48" alt="REA" title="REA" /></a>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity" title="Unity" />&nbsp;&nbsp;
   <img src="https://github.com/cheat-engine/cheat-engine/raw/master/Cheat%20Engine/images/celogo.png" width="48" height="48" alt="Cheat Engine" title="Cheat Engine" />&nbsp;&nbsp;
   <img src="https://www.logo.wine/a/logo/TigerVNC/TigerVNC-Logo.wine.svg" width="48" height="48" alt="TigerVNC" title="TigerVNC" />&nbsp;&nbsp;
