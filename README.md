@@ -37,6 +37,7 @@ Outside of Business & Development, I'm heavily involved in competitive gaming, e
 <p align="left">
   <a href="https://code.visualstudio.com/" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /></a>&nbsp;
   <a href="https://hex-rays.com/ida-pro" title="IDA Pro"><img src="https://www.google.com/s2/favicons?domain=hex-rays.com&sz=128" width="48" height="48" alt="IDA Pro" /></a>&nbsp;
+  <a href="https://rea.tools/" title="REA"><img src="https://www.google.com/s2/favicons?domain=rea.tools&sz=128" width="48" height="48" alt="REA" /></a>&nbsp;
   <a href="https://x64dbg.com/" title="x64dbg"><img src="https://github.com/x64dbg/x64dbg/raw/development/src/bug_black.png" width="48" height="48" alt="x64dbg" /></a>&nbsp;
   <a href="https://binary.ninja/" title="Binary Ninja"><img src="https://binary.ninja/bimi_logo.svg" width="48" height="48" alt="Binary Ninja" /></a>&nbsp;
   <a href="https://www.cheatengine.org/" title="Cheat Engine"><img src="https://github.com/cheat-engine/cheat-engine/raw/master/Cheat%20Engine/images/celogo.png" width="48" height="48" alt="Cheat Engine" /></a>&nbsp;
@@ -44,7 +45,6 @@ Outside of Business & Development, I'm heavily involved in competitive gaming, e
   <a href="https://telegram.org/" title="Telegram"><img src="https://cdn.simpleicons.org/telegram/2CA5E0" width="48" height="48" alt="Telegram" /></a>&nbsp;
   <a href="https://unity.com/" title="Unity"><img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity" /></a>&nbsp;
   <a href="https://godotengine.org/" title="Godot Engine"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/godot/default.svg" width="48" height="48" /></a>
-  <a href="https://rea.tools/" title="REA"><img src="https://www.google.com/s2/favicons?domain=rea.tools&sz=128" width="48" height="48" alt="REA" /></a>&nbsp;
   <a href="https://tigervnc.org/" title="TigerVNC"><img src="https://www.logo.wine/a/logo/TigerVNC/TigerVNC-Logo.wine.svg" width="48" height="48" alt="TigerVNC" /></a>&nbsp;
   <a href="https://opencode.ai/" title="OpenCode"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/opencode/default.svg" width="48" height="48" alt="OpenCode" /></a>
 </p>
