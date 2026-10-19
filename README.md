@@ -18,12 +18,12 @@ Outside of Business & Development, I'm heavily involved in competitive gaming, e
 <h3 align="left">Languages:</h3>
 
 <p align="left">
-  <!-- c/c++ first cuz that's where i most work in -->
+  <!-- c/c++/c# first cuz that's where i most work in -->
   <a href="https://en.cppreference.com/w/c/language.html" title="C"><img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" /></a>&nbsp;
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="C#"><img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" /></a>&nbsp;
   <a href="https://isocpp.org/" title="C++"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /></a>&nbsp;
   <a href="https://www.python.org/" title="Python"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /></a>&nbsp;  <!-- Python last I use it the least -->
-  <!-- web stuff is okay i guess -->
+  <!-- web stuff -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /></a>&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /></a>&nbsp;
   <a href="https://www.java.com/" title="Java"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /></a>&nbsp;
@@ -56,18 +56,18 @@ Outside of Business & Development, I'm heavily involved in competitive gaming, e
 
 <p>
   <a href="https://x.com/nyasyss">
-    <img src="https://img.shields.io/badge/X%2FTwitter-%23000000.svg?logo=X&logoColor=white" alt="X/Twitter" />
+    <img src="https://img.shields.io/badge/X%2FTwitter-%23000000.svg?logo=X&logoColor=white" alt="X/Twitter" /> 
   </a>
   <a href="http://t.me/nyasys">
     <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://nya.udwtf.workers.dev/">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white" alt="PortFolio" />
   </a>
 </p>
 
 <div>
   <a href="https://buymeacoffee.com/nya.sys" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" /> <!-- If you looking at this code, pls buy me coffee me I am broke 😭 --!>
   </a>
 </div>
