@@ -45,6 +45,7 @@ Outside of Business & Development, I'm heavily involved in competitive gaming, e
   <a href="https://opencode.ai/" title="OpenCode"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/opencode/default.svg" width="48" height="48" alt="OpenCode" /></a>
   <a href="https://tigervnc.org/" title="TigerVNC"><img src="https://www.logo.wine/a/logo/TigerVNC/TigerVNC-Logo.wine.svg" width="48" height="48" alt="TigerVNC" /></a>&nbsp;
   <a href="https://www.qemu.org//" title="Qemu VM"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/qemu/default.svg" width="46" height="46" alt="Qemu VM" /></a>&nbsp;
+  <a href="https://www.virtualbox.org/" title="Virtual-Box VM"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/virtualbox/default.svg" width="46" height="46" alt="Virtual-Box VM" /></a>&nbsp;
 </p>
 
 ---
