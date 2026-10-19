@@ -19,10 +19,10 @@ Outside of Business & Development, I'm heavily involved in competitive gaming, e
 
 <p align="left">
   <!-- c/c++ first cuz that's where i most work in -->
-  <a href="https://isocpp.org/" title="C++"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /></a>&nbsp;
   <a href="https://en.cppreference.com/w/c/language.html" title="C"><img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" /></a>&nbsp;
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="C#"><img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" /></a>&nbsp;
-  <a href="https://www.python.org/" title="Python"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /></a>&nbsp;
+  <a href="https://isocpp.org/" title="C++"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /></a>&nbsp;
+  <a href="https://www.python.org/" title="Python"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /></a>&nbsp;  <!-- Python last I use it the least -->
   <!-- web stuff is okay i guess -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /></a>&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /></a>&nbsp;
