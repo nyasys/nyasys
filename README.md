@@ -43,10 +43,10 @@ Outside of Business & Development, I'm heavily involved in competitive gaming, e
   <a href="https://discord.com/" title="Discord"><img src="https://skillicons.dev/icons?i=discord" width="48" height="48" alt="Discord" /></a>&nbsp;
   <a href="https://telegram.org/" title="Telegram"><img src="https://cdn.simpleicons.org/telegram/2CA5E0" width="48" height="48" alt="Telegram" /></a>&nbsp;
   <a href="https://unity.com/" title="Unity"><img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity" /></a>&nbsp;
+  <a href="https://godotengine.org/" title="Godot Engine"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/godot/default.svg" width="48" height="48" /></a>
   <a href="https://rea.tools/" title="REA"><img src="https://www.google.com/s2/favicons?domain=rea.tools&sz=128" width="48" height="48" alt="REA" /></a>&nbsp;
   <a href="https://tigervnc.org/" title="TigerVNC"><img src="https://www.logo.wine/a/logo/TigerVNC/TigerVNC-Logo.wine.svg" width="48" height="48" alt="TigerVNC" /></a>&nbsp;
   <a href="https://opencode.ai/" title="OpenCode"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/opencode/default.svg" width="48" height="48" alt="OpenCode" /></a>
-  <a href="https://godotengine.org/" title="Godot Engine"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/godot/default.svg" width="48" height="48" /></a>
 </p>
 
 ---
