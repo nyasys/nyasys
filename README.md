@@ -7,11 +7,11 @@
   <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" width="30px" alt="Waving hand">
 </h2>
 
-I'm Alex, 15, based in Russia. I build products focused on giving people happiness.
+I'm Alex, Based in Russia. I build products focused on giving people happiness.
 
-Most of what I do revolves around building products that make people happy, creating fun experiences and long lasting memories.
+Most of what I do revolves around building products that make people happy, creating fun experience and long lasting memories. Though this projects, I focus on turning ideas into reality, building things people genuinely enjoy, and creating fun online experiences that leave lasting memories though creativity, innovation, and execution.
 
-Outside of Business & Development, I'm heavily involved in competitive gaming, especially CS2 & TF2 & Fortnite. I'm also passionate about software development, building tools that give players an unfair advantage, and helping others along the way.
+Outside of business and development, I’m heavily involved in competitive gaming, especially CS2 & TF2 & Fortnite. I’m also passionate about software development, building tools that give players unfair advantage and helping others along they way.
 
 <h1 align="left">Languages & Software:</h1>
 
